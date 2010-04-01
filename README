@@ -1,7 +1,65 @@
-Arkanoid2
-This game was last updated Wed Dec 22 03:18:10 1999.
-It was created to pass time during math class in high school.
-It's written in Z80 assembly.
+Arkanoid 2 v1.03
+by James Rubingh <acz>
+james@wrive.com
+http://wrive.com
 
-James Rubingh
-james ( ) wrive.com
+Arkanoid 2 v1.03 is a game from the old Atari I believe, though
+I've never played it. This version for the ti-86 has a few things
+that you should know if you want to fully enjoy the game.
+
+Arkanoid 2 uses a 256 directional ball movement engine and this 
+makes directing it with the paddle interesting. If you hit the ball
+on the very edge of the paddle it will change the direction of the 
+ball accordingly. If you hit the ball with the middle of the paddle
+the ball won't change angles other than going up when before it
+was coming down.
+
+Keys:
+F1 - Save game and Exit. This is useful if you make a level set 
+that has a lot of levels.
+Left & right - move the paddle
+Exit - Exit game
+More - Pause game
+Enter - during menus will select.
+
+
+Bonus:
+101 -  this will add to your score 501 points
+
+|_| -  this bonus will put up a 1 hit barrier. If you have a
+3 hit barrier already... it will reduce it to 1 hit, so
+be care remember, "BASIC" is your enemy! stay away from it at ALL COSTS
+
+
+External Levels:
+To install external levels, just send the .86s file to your calc
+along with the program. The level editor has it's own documentation
+included in it's zip, the editor was written by Corey <ACZ>.
+
+TitleScreen:
+The title screen is the string named Ark2Scrn. Don't change it's 
+name or else it will not work! If you want, you can make your own
+external string file, just RLE encode a 4 level grayscale picture
+and name it Ark2Scrn. Email me for more details <James@acz.org>
+
+Have fun!
+
+Versions:
+  -----
+1.0  Initial release (very buggy)
+
+  1.02  Fixed some bugs, but then I simultaneously created
+  some more
+
+  *1.03  Fixed most of the bugs, "ACZ" bonus works, "B" bonus works
+  I was thinking of adding some more anti-basic stuff, but 
+  decided against it.
+
+  --------------------
+  Thanks to (in no special order):
+    Corey - he made the great level editor
+    Haroon - testing/comments/suggestions
+    Ricky Cobb - suggestions
+    Patrick Davidson - I iitle screen is the string named Ark2Scrn. Don't change its 
+    name or else it will not work! 
+
