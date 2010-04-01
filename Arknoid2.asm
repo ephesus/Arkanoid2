@@ -1,8 +1,8 @@
 Arkanoid_2_v.0
-by_James_Rubingh__james@acz.org
-http://james.acz.org
+by_James_Rubingh__james@wrive.com
+http://wrive.com
 
-;Made with Asm Studio 4.0b (unreleased to the public too bad for you!)
+;Made with Asm Studio 4.0b (unreleased to the public)
 ;November 14, 1999
 
 #include "rpg.h"			;header file
