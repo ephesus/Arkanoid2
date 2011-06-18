@@ -1,5 +1,5 @@
 Arkanoid_2_v.0
-by_James_Rubingh__james@wrive.com
+by_James_Rubingh__ephesus@gmail.com
 http://wrive.com
 
 ;Made with Asm Studio 4.0b (unreleased to the public)
